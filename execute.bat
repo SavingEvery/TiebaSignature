@@ -1,0 +1,2 @@
+python tiebalogin.py
+pause
